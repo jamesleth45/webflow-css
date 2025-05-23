@@ -1,7 +1,3 @@
-body {
-  background-color: yellow !important;
-}
-
 /* === NAVIGATION === */
 .header__nav-list {
   position: relative;
@@ -10,13 +6,13 @@ body {
 @media (min-width: 992px) {
   .header__nav-list--left {
     position: fixed;
-    top: 24px;
-    left: 24px;
+    top: 27px;
+    left: 27px;
   }
 
   .header__nav-list--right {
     position: fixed;
-    top: 24px;
-    right: 24px;
+    top: 27px;
+    right: 27px;
   }
 }
