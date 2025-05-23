@@ -1,0 +1,18 @@
+/* === NAVIGATION === */
+.header__nav-list {
+  position: relative;
+}
+
+@media (min-width: 992px) {
+  .header__nav-list--left {
+    position: fixed;
+    top: 24px;
+    left: 24px;
+  }
+
+  .header__nav-list--right {
+    position: fixed;
+    top: 24px;
+    right: 24px;
+  }
+}
