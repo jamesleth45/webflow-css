@@ -6,13 +6,13 @@
 @media (min-width: 992px) {
   .header__nav-list--left {
     position: fixed;
-    top: 24px;
+    top: 244px;
     left: 24px;
   }
 
   .header__nav-list--right {
     position: fixed;
-    top: 24px;
+    top: 244px;
     right: 24px;
   }
 }
