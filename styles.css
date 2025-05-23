@@ -16,3 +16,6 @@
     right: 27px;
   }
 }
+.header__nav-list {
+  border: 3px solid red !important;
+}
